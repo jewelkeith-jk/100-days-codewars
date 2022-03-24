@@ -1,10 +1,32 @@
-# 100 Days of Codewars (round 1)
-This is a repository for a collection of my solutions to the challenges I took at Codewars for the first round of 100 days.
+# 100 Days of Codewars
 
-## 📅 Day 1 Challenges:
+I created this repository to document my solutions of the JavaScript challenges (Kata) I took at [Codewars](www.codewars.com/r/DV792A
+).
 
-🔗 [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+--------------
 
-🔗 [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
+## Table of Contents
 
-✅ [My solutions](https://github.com/jewelkeith-jk/Codewars/blob/main/day1_challenges.js)
+I. Round 1 (R1)
+
+  - [First Quarter](https://github.com/jewelkeith-jk/100-days-codewars/edit/main/README.md#r1_q1) (Q1)
+
+  - Second Quarter (Q2)
+
+  - Third Quarter (Q3)
+
+  - Fourth Quarter (Q4)
+
+--------------
+
+# R1_Q1:
+
+## 📅 D1_3-23-22:
+
+### ❓ Kata (8 Kyu):
+
+- 🔗 [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+
+- 🔗 [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
+
+### ✅ [Solutions](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/Round%201/Quarter%201/day1.js)
