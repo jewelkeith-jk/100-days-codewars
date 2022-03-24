@@ -9,7 +9,7 @@ I created this repository to document my solutions of the JavaScript challenges 
 
 I. Round 1 (R1)
 
-  - [First Quarter](https://github.com/jewelkeith-jk/100-days-codewars/edit/main/README.md#r1_q1) (Q1)
+  - [First Quarter](https://github.com/jewelkeith-jk/100-days-codewars#r1_q1) (Q1)
 
   - Second Quarter (Q2)
 
