@@ -1,7 +1,7 @@
-# 100 Days Codewars (round 1)
+# 100 Days of Codewars (round 1)
 This is a repository for a collection of my solutions to the challenges I took at Codewars for the first round of 100 days.
 
-📅 Day 1 Challenges:
+## 📅 Day 1 Challenges:
 
 🔗 [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 
