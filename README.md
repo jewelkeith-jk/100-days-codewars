@@ -1,6 +1,6 @@
 # 💯 Days of Codewars
 
-I created this repository to document my solutions of the JavaScript challenges ([Kata](https://docs.codewars.com/concepts/kata)) I took on [Codewars](www.codewars.com/r/DV792A).
+I created this repository to document my solutions of the JavaScript ([Kata](https://docs.codewars.com/concepts/kata)) I took on Codewars.
 
 --------------
 
@@ -8,11 +8,11 @@ I created this repository to document my solutions of the JavaScript challenges 
 
 - [Sign up for Codewars](www.codewars.com/r/DV792A) (I'll be honored 😆)
 
+- [Codewars Documentation](https://docs.codewars.com/) (What is Codewars anyway? 🤔)
+
 - [My Codewars profile](https://www.codewars.com/users/jewelkeith-jk) (Let's be allies? 👉👈)
 
-- [Codewars Documentation](https://docs.codewars.com/) (What the heavens is Codewars anyway? 🤔)
-
-- [JavaScript Katas](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&beta=false&order_by=popularity%20desc) (Sort by: Popularity | Status: Approved | Progress: Kata not trained on 👩‍💻)
+- [JavaScript Kata](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&beta=false&order_by=popularity%20desc) (Sort by: Popularity | Status: Approved | Progress: Kata not trained on 👩‍💻)
 
 --------------
 
@@ -60,7 +60,7 @@ I. Round 1 (R1)
 
 --------------
 
-## 📅 D1_3-23-22:
+## 📅 D1_3-23-22
 
 ### ❓ Kata (8 Kyu)
 
