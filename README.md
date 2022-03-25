@@ -40,8 +40,6 @@ I created this repository to document my solutions to the JavaScript Kata I took
 
 - Date format is Month-Day-Year.
 
-- Sure, feel free to copy this 😄
-
 --------------
 
 ## Table of Contents
