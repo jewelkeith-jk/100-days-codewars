@@ -12,7 +12,7 @@ I created this repository to document my solutions to the JavaScript Kata I took
 
 - [My Codewars profile](https://www.codewars.com/users/jewelkeith-jk) (Let's be allies? 👉👈)
 
-- [JavaScript Kata](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&beta=false&order_by=popularity%20desc) (Sort by: Popularity | Status: Approved | Progress: Kata not trained on 👩‍💻)
+- [JavaScript Kata](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&xids=played&beta=false&order_by=popularity%20desc) (Sort by: Popularity | Status: Approved | Progress: Kata not trained on 👩‍💻)
 
 --------------
 
