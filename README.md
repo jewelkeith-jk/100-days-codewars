@@ -3,8 +3,6 @@
 I created this repository to document my solutions of the JavaScript challenges ([Kata](https://docs.codewars.com/concepts/kata)) I took on [Codewars](www.codewars.com/r/DV792A
 ).
 
-*Note: For ease of use, CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the links to open them in a new tab.*
-
 --------------
 
 ## Emojis Legend
@@ -16,6 +14,20 @@ I created this repository to document my solutions of the JavaScript challenges 
 - 🔗 Nth number of Kata under a specific difficulty and its link
 
 - ✅ My solution/s
+
+--------------
+
+## Notes:
+
+- For ease of use, CTRL + left click (on Windows and Linux) or CMD + left click (on MacOS) on the links to open them in a new tab.
+
+- The emoji ✅ which links to my solution/s to a Kata is clickable.
+
+- Round 1 (R1) refers to a set of 100 days of Codewars.
+
+- Quarter 1 (Q1) refers to the first quarter, 1-25 days, of one round.
+
+- Date format is Month-Day-Year.
 
 --------------
 
