@@ -7,7 +7,7 @@ I created this repository to document my solutions of the JavaScript challenges 
 
 ## Emojis Legend
 
-- 📅 Day number and date when accomplished
+- 📅 Day number and date accomplished
 
 - ❓ Kata difficulty level ([learn more](https://docs.codewars.com/gamification/ranks))
 
