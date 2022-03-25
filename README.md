@@ -39,11 +39,9 @@ I. Round 1 (R1)
 
 ### ❓ Kata (8 Kyu):
 
-- 🔗 [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+- [✅]() 🔗 [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 
-- 🔗 [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
-
-### ✅ [Solution](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/Round%201/Quarter%201/day1.js)
+- [✅]() 🔗 [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 
 --------------
 
@@ -51,18 +49,16 @@ I. Round 1 (R1)
 
 ### ❓ Kata (8 Kyu):
 
-- 🔗 [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+- [✅]() 🔗 [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 
-- 🔗 [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095)
+- [✅]() 🔗 [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095)
 
-- 🔗 [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
+- [✅]() 🔗 [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 
-- 🔗 [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+- [✅]() 🔗 [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 
-- 🔗 [Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/53369039d7ab3ac506000467)
+- [✅]() 🔗 [Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/53369039d7ab3ac506000467)
 
-- 🔗 [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
+- [✅]() 🔗 [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
 
-- 🔗 [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
-
-### ✅ [Solution]()
+- [✅]() 🔗 [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
