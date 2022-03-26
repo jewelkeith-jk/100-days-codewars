@@ -89,3 +89,16 @@ I. Round 1 (R1)
 - [✅](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/round1/quarter1/day2/6convert_a_number_to_a_string.js) 🔗 #9 [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
 
 - [✅](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/round1/quarter1/day2/7grasshopper_summation.js) 🔗 #10 [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
+
+--------------
+
+## 📅 D3_3-25-22
+
+### ❓ Kata (8 Kyu)
+
+- [✅](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/round1/quarter1/day3_3-25-22/8remove_string_spaces.js) 🔗 #11 [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
+
+- [✅](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/round1/quarter1/day3_3-25-22/9returning_strings.js) 🔗 #12 [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4)
+
+- [✅](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/round1/quarter1/day3_3-25-22/10if_you_can't_sleep_just_count_sheep.js) 🔗 #13 [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
+
