@@ -108,6 +108,6 @@ I. Round 1 (R1)
 
 ### ❓ Kata (6 Kyu)
 
-- [✅](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/round1/quarter1/day4_3-26-22/1roman_numerals_encoder.js) 🔗 #11 [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
+- [✅](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/round1/quarter1/day4_3-26-22/1roman_numerals_encoder.js) 🔗 #1 [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
 
 
