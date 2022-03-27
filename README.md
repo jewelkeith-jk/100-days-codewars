@@ -102,3 +102,12 @@ I. Round 1 (R1)
 
 - [✅](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/round1/quarter1/day3_3-25-22/10if_you_can't_sleep_just_count_sheep.js) 🔗 #13 [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
 
+--------------
+
+## 📅 D4_3-26-22
+
+### ❓ Kata (6 Kyu)
+
+- [✅](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/round1/quarter1/day4_3-26-22/1roman_numerals_encoder.js) 🔗 #11 [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
+
+
