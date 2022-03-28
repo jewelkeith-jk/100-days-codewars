@@ -110,4 +110,12 @@ I. Round 1 (R1)
 
 - [✅](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/round1/quarter1/day4_3-26-22/1roman_numerals_encoder.js) 🔗 #1 [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
 
+--------------
+
+## 📅 D5_3-27-22
+
+### ❓ Kata (7 Kyu)
+
+- [✅](https://github.com/jewelkeith-jk/100-days-codewars/blob/main/round1/quarter1/day5_3-27-22/1highest_and_lowest.js) 🔗 #1 [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
+
 
